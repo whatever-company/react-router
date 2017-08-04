@@ -1,6 +1,6 @@
 {
-  "name": "react-router",
-  "version": "2.8.1",
+  "name": "@whatever/react-router",
+  "version": "2.8.2",
   "description": "A complete routing library for React",
   "files": [
     "*.md",
@@ -77,10 +77,10 @@
     "mocha": "^2.5.3",
     "pretty-bytes": "^3.0.1",
     "qs": "^6.2.1",
-    "react": "^15.3.0",
+    "react": "next",
     "react-addons-css-transition-group": "^15.3.0",
     "react-addons-test-utils": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "react-dom": "next",
     "rimraf": "^2.5.4",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
